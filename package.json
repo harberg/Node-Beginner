@@ -1,7 +1,7 @@
 {
 	"name": "Node for Beginners",
 	"version": "0.2.0",
-	"description": "Exercise files from Node for Beginners",
+	"description": "Exercise files for Node for Beginners",
 	"devDependecies": {
 		"grunt": "~0.4.2",
 		"grunt-contrib-jshint": "~0.6.3"
