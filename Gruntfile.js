@@ -8,12 +8,11 @@ module.exports = function(grunt) {
 				"curly": true,
 			  	"eqnull": true,
 			  	"eqeqeq": true,
-			  	"undef": true,
 			  	"globals": {
 			  		"jQuery": true
 			  	}
 			},
-			target1: ['Gruntfile.js', 'src/**/*.js']
+			target1: ['Gruntfile.js', '*.js']
 		}
 	});
 
